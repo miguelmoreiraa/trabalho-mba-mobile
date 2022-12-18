@@ -4,7 +4,7 @@
     "slug": "mobile",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/games-friends.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash-games.png",
